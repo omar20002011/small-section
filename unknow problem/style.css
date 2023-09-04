@@ -1,0 +1,20 @@
+.BIG1{
+    background-color: blanchedalmond;
+    overflow: hidden;
+}
+.small1{
+    width:500px;
+    background-color:aqua;
+    text-align: center;
+    margin-top:100px;
+    float: right;
+    margin-right:100px;
+}
+.small1 li{
+    padding-right:150px;
+    margin-bottom:12px;
+}
+.small2 img{
+    width:33%;
+    margin:50 0 0 50;
+}
